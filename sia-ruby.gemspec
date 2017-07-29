@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name        = 'sia-ruby'
-  s.version     = '0.0.0'
-  s.date        = '2010-04-28'
+  s.version     = '0.1.0'
+  s.date        = '2017-07-29'
   s.summary     = "A SiaCoin ruby gem."
   s.description = "This gem should allow you to create a wallet, send / recieve SiaCoin, rent space, or upload files."
   s.authors     = ["Daniel Ciotoli"]
